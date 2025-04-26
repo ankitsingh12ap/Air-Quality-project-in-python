@@ -8,7 +8,7 @@ from scipy import stats
 # Load data (replace with your file path)
 df = pd.read_csv('Air_Quality.csv')
 
-# --------------------------
+# ----------------------#----
 # Function 1: Clean Data
 # --------------------------
 def clean_data(df, pollutant_name='Nitrogen dioxide (NO2)'):
